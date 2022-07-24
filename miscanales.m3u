@@ -1,76 +1,93 @@
 #EXTM3U
 #EXTINF:-1,Telefe
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1658689213~exp=1658696413~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e7a05983ec55357c3ad3cddc9c02b8df249204f8fde378856231c2d90590e64b
 #EXTINF:-1,Canal 13
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1,Canal 9
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:-1,America TV
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1, Cartoon Network
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 #EXTINF:-1, Disney Channel
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 #EXTINF:-1, Tooncast
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1, Nick
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
 #EXTINF:-1, Locomotion
 51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1, Retromagico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1, Energeek 1
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1, Energeek 2
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1, CONtv Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+#EXTINF:-1, Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1, Aniplus+
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+#EXTINF:-1, bitMe
+http://23.148.145.49:9001/televall2022/207_.m3u8?token=Agu3Dbo-5dBM8utApGqLgg&expires=1658703224
+#EXTINF:-1, bitMe Opcion 2
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/223529.m3u8
 #EXTINF:-1, Warner Channel
-https://edge-vod04-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 #EXTINF:-1, Cinecanal
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 #EXTINF:-1, Universal Channel
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+#EXTINF:-1, Star Channel
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 #EXTINF:-1, TNT
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1, TNT Series
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 #EXTINF:-1, HBO
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1, HBO 2
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1, HBO+
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1, HBO Xtreme
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1, HBO Family
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 #EXTINF:-1, HBO Pop
-https://edge-vod04-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF:-1, Star Channel
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, Paramount
-https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-
+https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+#EXTINF:-1, Cinemax
+https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+#EXTINF:-1, Space
+https://usher.ttvnw.net/api/channel/hls/cb_x45ll.m3u8?allow_source=true&fast_bread=true&p=1145321&play_session_id=bfecc60bd954e5b04af13f694e2d8854&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=9a1a42bf3ff3075eff1744ed5db2eab25e642232&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cb_x45ll%22%2C%22channel_id%22%3A800457993%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222da2b92506e9972f%22%2C%22expires%22%3A1658697696%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.51.202.41%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.12.0
 #EXTINF:-1, TNT Sports
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/lzeawdu4jwj.m3u8?s=ghzGt52PAusQk0ezE0XNTw&e=1658718192
 #EXTINF:-1, Fox Sports Premium
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1, Fox Sports
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/ui0r19b.m3u8?s=Dun9bSHA1RpoORIYHOz1kQ&e=1658718215
+#EXTINF:-1, Fox Sports 2
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/ui0r19b.m3u8?s=3bpeAyKhZd9aD3KrI92Wzg&e=1658718293
 #EXTINF:-1, Fox Sports 3
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+https://ed7.zorrohd2.nl/live/STe3e78f647ed3276.m3u8
 #EXTINF:-1, ESPN
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1, ESPN 2
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/l5l5m.m3u8?s=RMKFhPDsmpgtVTEEprdwUA&e=1658718328
 #EXTINF:-1, ESPN 3
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1, ESPN +
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1, TyC Sports
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1, DirecTV Sports
-https://chupa4.site/live/flowitc91zh.m3u8
+https://ed7.zorrohd2.nl/live/flowitc91zh.m3u8
 #EXTINF:-1, DirecTV Sports 2
-https://chupa2.site/live/flowitc94l9.m3u8
+https://ed7.zorrohd2.nl/live/flowitc94l9.m3u8
 #EXTINF:-1, DirecTV Sports +
-https://chupa4.site/live/flowitc96js.m3u8
+https://ed7.zorrohd2.nl/live/flowitc96js.m3u8
