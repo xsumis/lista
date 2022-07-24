@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1658689213~exp=1658696413~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e7a05983ec55357c3ad3cddc9c02b8df249204f8fde378856231c2d90590e64b
+https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1,Canal 13
 https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1,Canal 9
